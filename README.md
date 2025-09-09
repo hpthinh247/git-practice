@@ -1,2 +1,1 @@
-# Git Practice
-Gioi thieu: Toi la <Thinh>, MSSV<224366>.
+Day la README tu nhanh conflict-demo
